@@ -164,7 +164,7 @@ export const HACKATHON_PILLARS: HackathonPillar[] = [
 ];
 
 export const SOCIAL_LINKS = {
-  name: 'Logesh',
+  name: 'LOGESH.L',
   role: 'B.Tech Student & Aspiring AI Engineer',
   status: 'B.Tech 1st Semester',
   linkedIn: 'https://www.linkedin.com/in/logesh-l-854496433',

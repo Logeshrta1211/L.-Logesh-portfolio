@@ -15,12 +15,12 @@ export const Footer: React.FC = () => {
           {/* Logo & Tagline */}
           <div className="text-center md:text-left space-y-1">
             <div className="flex items-center justify-center md:justify-start gap-2">
-              <span className="font-bold text-slate-900 text-base">Logesh</span>
+              <span className="font-bold text-slate-900 text-base">LOGESH.L</span>
               <span className="text-slate-300">·</span>
               <span className="text-xs text-slate-500 font-mono">B.Tech 1st Semester</span>
             </div>
             <p className="text-xs text-slate-500">
-              &copy; 2026 Logesh. Built with curiosity and code.
+              &copy; 2026 LOGESH.L. Built with curiosity and code.
             </p>
           </div>
 

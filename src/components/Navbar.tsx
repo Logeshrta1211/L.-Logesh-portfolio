@@ -66,7 +66,7 @@ export const Navbar: React.FC = () => {
               L
             </div>
             <div className="flex flex-col">
-              <span className="text-base font-bold text-slate-900 leading-tight">Logesh</span>
+              <span className="text-base font-bold text-slate-900 leading-tight">LOGESH.L</span>
               <span className="text-[10px] text-slate-500 font-medium">B.Tech Fresher</span>
             </div>
           </a>
@@ -97,7 +97,7 @@ export const Navbar: React.FC = () => {
               href={SOCIAL_LINKS.github}
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="GitHub profile of Logesh"
+              aria-label="GitHub profile of LOGESH.L"
               className="p-2 text-slate-600 hover:text-slate-900 hover:bg-slate-100 rounded-lg transition-colors"
             >
               <Github className="w-4 h-4" />
@@ -106,7 +106,7 @@ export const Navbar: React.FC = () => {
               href={SOCIAL_LINKS.linkedIn}
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="LinkedIn profile of Logesh"
+              aria-label="LinkedIn profile of LOGESH.L"
               className="p-2 text-slate-600 hover:text-[#0077b5] hover:bg-blue-50/60 rounded-lg transition-colors"
             >
               <Linkedin className="w-4 h-4" />

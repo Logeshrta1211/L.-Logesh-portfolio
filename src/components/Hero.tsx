@@ -20,7 +20,7 @@ export const Hero: React.FC = () => {
             {/* Main Heading */}
             <div className="space-y-3">
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-slate-900 leading-[1.12]">
-                Hi, I&apos;m <span className="text-blue-600">Logesh.</span>
+                Hi, I&apos;m <span className="text-blue-600">LOGESH.L</span>
               </h1>
               <p className="text-lg sm:text-xl font-medium text-slate-700 leading-snug">
                 B.Tech Student <span className="text-slate-400">|</span> Aspiring AI Engineer <span className="text-slate-400">|</span> Python &amp; GenAI Enthusiast
@@ -97,7 +97,7 @@ export const Hero: React.FC = () => {
                 </div>
                 <div className="pl-4 space-y-1.5 border-l-2 border-slate-100 ml-1">
                   <div>
-                    <span className="text-slate-500">name</span> = <span className="text-emerald-700">&quot;Logesh&quot;</span>
+                    <span className="text-slate-500">name</span> = <span className="text-emerald-700">&quot;LOGESH.L&quot;</span>
                   </div>
                   <div>
                     <span className="text-slate-500">status</span> = <span className="text-emerald-700">&quot;B.Tech 1st Semester&quot;</span>
